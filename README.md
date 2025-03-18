@@ -12,7 +12,7 @@ Este repositorio contiene la documentación y el código de los ejercicios asign
   - Control de flujo (condicionales y bucles).
   - Introducción a librerías de IoT en JavaScript.
     
-- **Evidencias:**
+  ## Evidencias
 
   #### Evaluación Cisco
    <img src= "" width="300"/>
