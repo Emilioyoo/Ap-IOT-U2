@@ -16,7 +16,8 @@ Este repositorio contiene la documentación y el código de los ejercicios asign
 
   #### Evaluación Cisco
    <img src= "" width="300"/>
-   **Ejercicios en Clase**
+   <br>
+  **Ejercicios en Clase**
  [link de drive]
  <br>
   <br>
