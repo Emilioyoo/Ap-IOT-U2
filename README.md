@@ -24,7 +24,7 @@ Este repositorio contiene la documentación y el código de los ejercicios asign
   <br>
   
  **Diagramas**
- [link de drive]
+ [link de drive] https://docs.google.com/document/d/1M2fVRxTy8YUi6mmlhzZfE5OWj6Zcd1dWzPfzz65ytDU/edit?usp=sharing
 
  **Evidencias Video de Placa Soldada con Leds:**
  <img src= "" width="300"/>
