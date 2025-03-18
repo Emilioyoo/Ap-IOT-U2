@@ -20,7 +20,7 @@ Este repositorio contiene la documentación y el código de los ejercicios asign
  [link de drive]
  <br>
   <br>
- ###Diagramas
+ ##Diagramas
  [link de drive]
 
  **Evidencias Video de Placa Soldada con Leds:**
