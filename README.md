@@ -16,11 +16,11 @@ Este repositorio contiene la documentación y el código de los ejercicios asign
 
   #### Evaluación Cisco
    <img src= "" width="300"/>
- #### Ejercicios en Clase
+   **Ejercicios en Clase**
  [link de drive]
  <br>
   <br>
- ##Diagramas
+ **Diagramas**
  [link de drive]
 
  **Evidencias Video de Placa Soldada con Leds:**
